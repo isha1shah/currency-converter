@@ -28,9 +28,11 @@ A simple, responsive web-based **Currency Converter** built with HTML, CSS, and 
 
 ---
 
-## 🚀 How to Use
+## 🌐 Live Site
 
-### 🔗 Live Demo
+🔗 [Click here to view the live app](https://isha1shah.github.io/currency-converter/)
+
+## 📂 Project Structure
 
 ### 🧑‍💻 Run Locally
 
